@@ -27,13 +27,13 @@ Use this project to make your first contribution to an open source project on Gi
 
 # Getting Stared
 
-1.Fork these repo
+1. Fork these repo
 
 2. Choose your favourite program from the folder
 
 3. Create file with a name and add Program(example: `file_name.py`)
 
-4.create a pull request(PR)(make sure that PR contain title and description about the PR)
+4. create a pull request(PR)(make sure that PR contain title and description about the PR)
 
 
 5. wait for the acceptance

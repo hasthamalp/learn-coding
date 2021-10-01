@@ -31,10 +31,10 @@ Use this project to make your first contribution to an open source project on Gi
 
 2. Choose your favourite program from the folder
 
-2.Create file with a name and add Program(example: `file_name.py`)
+3. Create file with a name and add Program(example: `file_name.py`)
 
-3.create a pull request(PR)
+4.create a pull request(PR)(make sure that PR contain title and description about the PR)
 
 
-4. wait for the acceptance
+5. wait for the acceptance
 

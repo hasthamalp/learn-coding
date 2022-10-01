@@ -6,10 +6,12 @@
 
 
 
+<img width="2400" alt="Email Banners-Lite" src="https://user-images.githubusercontent.com/72604216/193395433-6a962f13-032c-4889-9879-f9aebedc9dd2.png">
 
 
 
-![Hacktoberfest_final_2color-05 copy](https://user-images.githubusercontent.com/72604216/135604895-fc1daaf9-a922-4bba-a5c4-a959b22f9d90.png)
+
+
 
 
 
